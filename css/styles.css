@@ -517,7 +517,7 @@ overflow: hidden;
 
 /*Testimonial*/
 .testimonial {
-  padding: 3rem;
+  padding: 5rem;
 }
 
 .testimonial__image {
@@ -657,6 +657,7 @@ overflow: hidden;
 
 .block__header {
   text-align: center;
+  margin-bottom: 4rem;
 }
 
 .container {
